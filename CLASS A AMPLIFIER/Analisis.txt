@@ -1,0 +1,3 @@
+Amplifier kelas A digunakan untuk memperkuat gelomabgn output dan menghasilkan distorsi yang rendah dan tingkat linier yang tinggi
+Bisa diliat dari hasil gelombang output pada channel B dimana gelombang terlihat lebih besar dari gelombang input
+Hal tersebut membuktikan bahwa kelas A ini digunakan untuk memperkuat gelombang output
